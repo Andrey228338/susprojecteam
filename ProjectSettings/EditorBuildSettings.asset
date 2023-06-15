@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8007e5b80d3570e4bbb0d1cec5ace6ce
+  - enabled: 1
+    path: Assets/Scenes/susprojecteamterrain.unity
+    guid: ca817994fef1a6b42a7313128ea92f05
   m_configObjects: {}
