@@ -1,18 +1,19 @@
 using System.Collections;
-using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class LevelVote : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] public GameObject Level;
+    private bool levelVote;
+    public void levelvote()
+
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+
+
     }
+
 }

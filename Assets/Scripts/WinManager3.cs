@@ -10,7 +10,7 @@ public class WinManager3 : MonoBehaviour
     {
         
         {
-            SceneManager.LoadScene(4);
+            SceneManager.LoadScene(0);
         }
     }
 }
