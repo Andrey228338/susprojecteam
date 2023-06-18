@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
-public class WinManager2 : MonoBehaviour
+public class WinManager3 : MonoBehaviour
 {
     [SerializeField] public GameObject Flag;
  
@@ -10,7 +10,7 @@ public class WinManager2 : MonoBehaviour
     {
         
         {
-            SceneManager.LoadScene(3);
+            SceneManager.LoadScene(4);
         }
     }
 }
